@@ -1,0 +1,37 @@
+//11082021-10118364-Andika Rahma Fauziah-IF09
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/viewpager"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    android:background="@color/purple_200">
+
+    <ImageView
+        android:id="@+id/icon_car"
+        android:src="@drawable/icon_car"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/judul"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/deskripsi"/>
+
+
+</LinearLayout>

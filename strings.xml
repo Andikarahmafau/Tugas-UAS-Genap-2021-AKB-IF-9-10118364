@@ -1,0 +1,14 @@
+//11082021-10118364-Andika Rahma Fauziah-IF09
+<resources>
+    <string name="app_name">UTS_AKB_IF9_10118364_AndikaRahmaFauziah</string>
+
+    <string name="judul_1"> Toyota </string>
+    <string name="judul_2"> Honda </string>
+    <string name="judul_3"> Mitsubitshi </string>
+    <string name="judul_4"> Jeep </string>
+
+    <string name="desk_1"> Toyota Kijang Innova </string>
+    <string name="desk_2"> Civic Type R </string>
+    <string name="desk_3"> Pajero Sport </string>
+    <string name="desk_4"> Jeep Wrangler Rubicon </string>
+</resources>

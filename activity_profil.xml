@@ -1,0 +1,58 @@
+//07062021-10118364-Andika Rahma Fauziah-IF09
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="35dp"
+    android:orientation="vertical"
+    android:background="@drawable/gradasi"
+    tools:context=".ProfilActivity">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="186dp"
+        tools:srcCompat="@drawable/foto" />
+
+    <TextView
+        android:id="@+id/TextView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/purple_200"
+        android:text="10118364"/>
+
+    <TextView
+        android:id="@+id/TextView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/purple_200"
+        android:text="Andika Rahma fauziah"/>
+
+    <TextView
+        android:id="@+id/TextView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/purple_200"
+        android:text="IF09" />
+
+    <TextView
+        android:id="@+id/TextView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/purple_200"
+        android:text="Adikarahma04@mail.com" />
+
+
+</LinearLayout>
